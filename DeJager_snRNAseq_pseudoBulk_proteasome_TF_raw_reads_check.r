@@ -1,4 +1,4 @@
-library(DESeq2)
+#library(DESeq2)
 #library(pheatmap)
 library(ggplot2)
 library(data.table)
